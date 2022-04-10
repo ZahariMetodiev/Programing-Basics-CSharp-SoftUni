@@ -11,3 +11,5 @@ Here you can find problem solutions for the following exercises.
 [**3.Conditional Statements Advance**](https://github.com/ZahariMetodiev/Programing-Basics-CSharp-SoftUni/tree/main/%D0%9503.Conditional%20Statements%20Advance)
 
 [**4.Conditional Statement Advance-Exercise**](https://github.com/ZahariMetodiev/Programing-Basics-CSharp-SoftUni/tree/main/E04.Conditional%20Statements%20Advance-Exercise)
+
+[**5.For Loop**](https://github.com/ZahariMetodiev/Programing-Basics-CSharp-SoftUni/tree/main/E05.For%20Loop)
