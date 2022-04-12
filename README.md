@@ -15,3 +15,5 @@ Here you can find problem solutions for the following exercises.
 [**5.For Loop**](https://github.com/ZahariMetodiev/Programing-Basics-CSharp-SoftUni/tree/main/E05.For%20Loop)
 
 [**6.For Loop-Exercise**](https://github.com/ZahariMetodiev/Programing-Basics-CSharp-SoftUni/tree/main/T06.For%20Loop-Exercise)
+
+[**7.For Loops-More Exercise**](https://github.com/ZahariMetodiev/Programing-Basics-CSharp-SoftUni/tree/main/E07.For%20Loop-More%20Exercise)
