@@ -19,3 +19,5 @@ Here you can find problem solutions for the following exercises.
 [**7.For Loop-More Exercise**](https://github.com/ZahariMetodiev/Programing-Basics-CSharp-SoftUni/tree/main/E07.For%20Loop-More%20Exercise)
 
 [**8.While Loop**](https://github.com/ZahariMetodiev/Programing-Basics-CSharp-SoftUni/tree/main/E08.While%20Loop)
+
+[**9.While Loop-Exercise**](https://github.com/ZahariMetodiev/Programing-Basics-CSharp-SoftUni/tree/main/E09.While%20Loop-Exercise)
