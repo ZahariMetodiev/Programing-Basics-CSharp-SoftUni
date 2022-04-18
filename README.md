@@ -21,3 +21,11 @@ Here you can find problem solutions for the following exercises.
 [**8.While Loop**](https://github.com/ZahariMetodiev/Programing-Basics-CSharp-SoftUni/tree/main/E08.While%20Loop)
 
 [**9.While Loop-Exercise**](https://github.com/ZahariMetodiev/Programing-Basics-CSharp-SoftUni/tree/main/E09.While%20Loop-Exercise)
+
+[**10.While Loop-More Exercise**](https://github.com/ZahariMetodiev/Programing-Basics-CSharp-SoftUni/tree/main/E10.While%20Loop-More%20Exercise)
+
+[**11.Nested Loops**](https://github.com/ZahariMetodiev/Programing-Basics-CSharp-SoftUni/tree/main/E11.Nested%20Loops)
+
+[**12.Nested Loops-Exercise**](https://github.com/ZahariMetodiev/Programing-Basics-CSharp-SoftUni/tree/main/E12.Nested%20Loops-Exercise)
+
+
